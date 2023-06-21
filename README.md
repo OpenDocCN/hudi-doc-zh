@@ -53,6 +53,6 @@
 * 发邮件到 Email: `apachecn@163.com`.
 * 在我们的 [QQ群: 加入方式](https://docs.apachecn.org/join) 中联系群主/管理员即可.
 
-## 赞助我们
+## 赞助我
 
-<img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
+<img src="https://img-blog.csdnimg.cn/20200112005920729.png" alt="微信&支付宝" />
