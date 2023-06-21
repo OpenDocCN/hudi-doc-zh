@@ -8,19 +8,19 @@
 <br/>
 <table>
   <tr align="center">
-    <td colspan="2"><a title="hudi 0.5.0 中文版本" href="https://hudi.apachecn.org/docs/0.5.0/" target="_blank"><font size="5">正在翻译校验: 0.5.0 中文版本</font></a></td>
+    <td colspan="2"><a title="hudi 0.5.0 中文版本" href="https://hudi.flygon.net/docs/0.5.0/" target="_blank"><font size="5">正在翻译校验: 0.5.0 中文版本</font></a></td>
   </tr>
 </table>
 <br/>
 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-+ [Hudi Master 版本](http://hudi.apachecn.org)
++ [Hudi Master 版本](http://hudi.flygon.net)
 * 电子书下载地址：[epub](https://github.com/apachecn/hudi-doc-zh/tree/gh-pages/books/hudi-doc-zh.epub), [mobi](https://github.com/apachecn/hudi-doc-zh/tree/gh-pages/books/hudi-doc-zh.mobi)
 
 > hudi 官方入口
 
-+ ApacheCN 提供中文版本: <http://hudi.apachecn.org>
++ ApacheCN 提供中文版本: <http://hudi.flygon.net>
 + 官方英文版: <http://hudi.apache.org>
 + 官方中文版: <http://hudi.apache.org/cn/index.html>
 
@@ -44,7 +44,7 @@
 
 * 在我们的 [apachecn/hudi-doc-zh](https://github.com/apachecn/hudi-doc-zh) github 上提 issue.
 * 发邮件到 Email: `apachecn@163.com`.
-* 在我们的 [QQ 群: 加入方式](https://docs.apachecn.org/join) 中联系群主/管理员即可.
+* 在我们的 [QQ 群: 加入方式](https://docs.flygon.net/join) 中联系群主/管理员即可.
 
 ## 赞助我
 
